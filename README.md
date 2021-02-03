@@ -3,11 +3,12 @@
 <img src="https://img.shields.io/badge/languages-2-informational">  <img src="https://img.shields.io/badge/feito%20por-Daniella%20Salles-success">
 <br>
 
+<p float="left">
 <img src="screenshot/html5.png">
 <img src="screenshot/css3.png">
-<br>
+</p>
 
-Projeto desenvolvido durante os módulos HTML e CSS do curso [**"The Complete 2021 Web Development Bootcamp"**](https://www.udemy.com/course/the-complete-web-development-bootcamp/), disponível na Udemy.
+### Projeto desenvolvido durante os módulos HTML e CSS do curso [**"The Complete 2021 Web Development Bootcamp"**](https://www.udemy.com/course/the-complete-web-development-bootcamp/), disponível na Udemy. ###
 <br>
 
 ---
